@@ -6,4 +6,5 @@ It is necessary to take data from the university server and process it in such a
 
 
 main.py - code file.
+
 .csv and .json files - indications of the devices.
